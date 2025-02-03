@@ -59,3 +59,4 @@ For the initial application data, you can start with the following list of produ
 ## DOCS
 
 You can find documentation in the `docs` folder in `api.md` file.
+# shopping_cart
